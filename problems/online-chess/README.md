@@ -5,7 +5,7 @@ Design an online chess application like Chess.com
 ## Solutions
 
 ### Diagrams
-![alt text](https://github.com/zhorifiandi/system-designs/problems/online-chess/online-chess.png)
+![alt text](https://github.com/zhorifiandi/system-designs/blob/main/problems/online-chess/online-chess.png)
 
 ### Excalidraw
 https://excalidraw.com/#json=Oeqach-y2NBuoeJW9YKlx,wle2A4BzyxLERGvygjP_vQ
