@@ -11,7 +11,7 @@ Bonus:
 ## Solutions
 
 ### Diagrams
-![alt text](https://github.com/zhorifiandi/system-designs/blob/main/problems/instagram/instagram.png)
+![alt text](https://github.com/zhorifiandi/system-designs/blob/main/instagram/instagram.png)
 
 ### Excalidraw
 https://excalidraw.com/#json=URieb_UweNX9fc77WK0Td,1aqSPNd8lFXDZ9wU40TWeg
