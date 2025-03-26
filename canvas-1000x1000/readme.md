@@ -10,4 +10,4 @@ it will have 100k users concurrently
 ## My Answers
 https://excalidraw.com/#json=0Dlu2uXrP3KQVU6ASgbcC,aRlf9ZEkBJicnErEJ3_gRw
 
-![image](./image.png)
+![image](./system-design-interview-1000board.png)
